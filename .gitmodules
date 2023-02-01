@@ -1,0 +1,3 @@
+[submodule "Git_Workshop"]
+	path = Git_Workshop
+	url = https://github.com/tamas100/Git_Workshop.git
